@@ -1,2 +1,1 @@
-greeshma
-icecream
+i am editing contents of this file food.txt . My favourite food is chinese, paneer masala , pizza.
